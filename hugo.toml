@@ -1,4 +1,4 @@
-baseUR = "https://docswiz.github.io/portfolio"
+baseURL = "https://docswiz.github.io/portfolio"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Prasad Inamdar Portfolio"
