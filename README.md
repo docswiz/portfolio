@@ -1,2 +1,3 @@
-# portfolio
-Contains resume and personal information
+# Portfolio
+
+Personal work for the learning purposes.
