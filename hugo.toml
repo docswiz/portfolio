@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://prasad-inamdar-portfolio.netlify.app/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Prasad Inamdar Portfolio"
