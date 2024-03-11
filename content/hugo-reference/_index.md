@@ -1,14 +1,14 @@
 ---
-title: "Getting Started"
+title: "Hugo Reference"
 date: 2017-10-17T15:26:15Z
 lastmod: 2018-12-08T15:26:15Z
 publishdate: 2018-11-23T15:26:15Z
 draft: false
-weight: 9
+weight: 30
 
 description: Text about this post
 images:
-- images/pexels-photo-196666.jpeg
+  - images/pexels-photo-196666.jpeg
 ---
 
 ## [Installation](./installation)
