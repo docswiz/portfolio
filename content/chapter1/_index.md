@@ -4,8 +4,5 @@ draft: false
 weight: 20
 ---
 
-The following API documentation is an attempt at incorporating an OpenAPI documentation in Hugo. A shortcode is used to include this API reference. Styling and other features such as **Try now** are planned.
+This chapter contains API reference documentation of various kind. Like other pages in this site, this chapter is under change. I am planning interactive API documntation where users can try an API and interactively read field descriptions.
 
-{{< openapi-ref-docs url="https://raw.githubusercontent.com/github/rest-api-description/main/descriptions/api.github.com/api.github.com.json" >}}
-
-<!-- {{< openapi-ref-docs url="https://raw.githubusercontent.com/OAI/OpenAPI-Specification/main/examples/v3.0/petstore.json" >}} -->
