@@ -57,6 +57,7 @@ enableMissingTranslationPlaceholders = false
         "entry",
         "post",
         "posts",
+        "sample"
     ]
 
     # Algolia site search section
