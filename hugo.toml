@@ -76,6 +76,10 @@ enableMissingTranslationPlaceholders = false
         weight = 1
         identifier = 'home'
 
+        name = "Marathi Blog"
+        url = "https://pikalapaan.blogspot.com/"
+        weight = 3
+
 # Markup configure section
 # See https://gohugo.io/getting-started/configuration-markup/
 [markup]
