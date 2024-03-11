@@ -76,9 +76,14 @@ enableMissingTranslationPlaceholders = false
         weight = 1
         identifier = 'home'
 
+    [[menu.main]]
         name = "Marathi Blog"
         url = "https://pikalapaan.blogspot.com/"
         weight = 3
+        # identifier = 'twitter'
+        pre = "<b>pre!</b> "
+        post = " <b>post!</b>"
+
 
 # Markup configure section
 # See https://gohugo.io/getting-started/configuration-markup/
