@@ -20,7 +20,7 @@ where fileName is the file's name with `.json` removed from the end
  {{ with $.Params.url }}
   {{ $openapi := getJSON $.Params.url }}
   <div class="$openapi-spec-content">
-    <em>{{ $openapi.info.title }} version {{ $openapi.info.version }}</em>
+    <h3>{{ $openapi.info.title }} version {{ $openapi.info.version }}</h3>
     <div class="description">
       <p>{{ $openapi.info.description }}</p>
     </div>
