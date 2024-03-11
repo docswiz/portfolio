@@ -2,7 +2,6 @@
 title: "Creating Writing (samples)"
 draft: false
 weight: 30
-tableofcontents: true
 ---
 
 
