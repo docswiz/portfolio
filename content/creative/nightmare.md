@@ -5,7 +5,7 @@ weight: 10
 ---
 
 When the day sets  
-Step down on the terrace of my house  
+Step down on the roof of my house  
 From the night's dark wings  
 Creep from the wet walls of my house  
 Separate me from myself  
